@@ -1,0 +1,37 @@
+body{
+    background-size: cover;
+   }
+   
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+   
+#status
+{
+font-size: 18px;
+}
+
+#found
+{
+font-size: 18px;
+}
+
+#input{
+    width: 350px;
+}
+   
+canvas{
+box-shadow: 5px 5px 5px black;
+border-radius: 3px;   
+margin-top: 9%; 
+}
+
+#footer{
+    position:fixed;
+    bottom: 0px;
+    width: 100%;
+    color: aquamarine;
+    background-color: yellowgreen;
+}
